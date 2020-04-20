@@ -1,4 +1,5 @@
 # (Note) What I Talk About When I Talk About Running #1
+2020-04-13
 
 ## Foreword
 This might _come off_ sounding like a dodge, but this is a book about running, not a _treatise_ on how to be healthy.
